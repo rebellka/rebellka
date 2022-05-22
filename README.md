@@ -7,6 +7,3 @@ I'm a back-end python developer, focusing mainly on building and developing web 
 
 I work as an analyst for business architecture and integration - I mainly work with data - analyze it, transform it, put it into a database and see if there is any added value from it. My duties also include being a product owner of two applications (yeeey!), being responsible for security issues related to the these applications, being responsible for maintaining the environment on Azure and Google Cloud Platform and other things that I don't know why I'm attached to it, but I like it and it gives me an opportunity to learn new things.
 
-
-## Goals for 2022! ✨
-Right now I'm trying to expand my knowledge about machine learning, apache airflow and in react - so that's my plan for the next few months.
